@@ -2,8 +2,7 @@
 // Read challenge.md first (right-click its tab → Open Preview).
 
 function sayHello() {
-  // ✏️ your code here
-
+  console.log("Hello, World!");
 }
 
 // Want to see it work? Remove the // from the next line...
