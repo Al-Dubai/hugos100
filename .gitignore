@@ -1,0 +1,9 @@
+# Installed packages (everyone installs their own with: npm install)
+node_modules/
+
+# Your personal progress file, created by: npm run progress
+my-progress.md
+
+# OS junk
+.DS_Store
+Thumbs.db

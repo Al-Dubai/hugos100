@@ -1,0 +1,14 @@
+{
+  "name": "hugos100",
+  "version": "1.0.0",
+  "description": "100 beginner JavaScript challenges — Programming Basics @ HZ University of Applied Sciences",
+  "private": true,
+  "scripts": {
+    "test": "jest --verbose",
+    "progress": "node tools/progress.js",
+    "postinstall": "node tools/setup-git.js"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}

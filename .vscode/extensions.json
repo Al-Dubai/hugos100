@@ -1,0 +1,6 @@
+{
+  // VS Code offers these to every student who opens the folder.
+  // Prettier keeps the formatting fights out of class; the Jest extension
+  // puts a green checkmark next to every passing test.
+  "recommendations": ["esbenp.prettier-vscode", "Orta.vscode-jest"]
+}
